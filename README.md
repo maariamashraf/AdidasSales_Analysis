@@ -1,10 +1,9 @@
 # Adidas U.S. Sales Analysis Project
-
 ## Overview
 This project analyzes Adidas sales data in the U.S. to uncover patterns across products, retailers, and regions. The goal is to identify drivers of revenue and profitability, enabling better pricing, inventory allocation, and marketing strategies.
 
 Ultimately, the goal is to translate raw sales data into actionable insights that support revenue growth and stronger competitive positioning in the U.S. market.
-
+For easier access, view the notebook directly: https://colab.research.google.com/drive/1T_rrZ0WFmk_L9K_0ToVmQ4TyFs4ijuOk?usp=sharing
 ## Dataset
 - **Time Period:** 2020-2021 Adidas sales transactions in the U.S.
 - **Records:** 9,658 transactions
