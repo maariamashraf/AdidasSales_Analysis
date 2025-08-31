@@ -1,0 +1,55 @@
+State,City,Population,Median Income,Competitor Count,Average Age
+New York,New York,570690,52121,48,33.9
+Texas,Houston,3281380,66099,27,44.5
+California,San Francisco,3971783,72418,28,34.9
+California,Los Angeles,3058324,43236,15,43.5
+Illinois,Chicago,602767,86426,11,34.1
+Texas,Dallas,2161651,80833,8,36.2
+Pennsylvania,Philadelphia,8808865,41373,29,37.2
+Nevada,Las Vegas,425523,81017,48,37.1
+Colorado,Denver,8058217,46160,50,37.4
+Washington,Seattle,630218,86051,40,37.3
+Florida,Miami,8153926,86609,31,34.2
+Minnesota,Minneapolis,213526,42311,41,34.4
+Montana,Billings,5987104,64605,45,39.3
+Tennessee,Knoxville,100250,63976,27,34.6
+Nebraska,Omaha,8678432,50964,42,30.8
+Alabama,Birmingham,5839696,87127,8,32.1
+Maine,Portland,2648191,51159,38,40.9
+Alaska,Anchorage,7914058,49629,49,36.7
+Hawaii,Honolulu,1920943,83079,45,44.9
+Florida,Orlando,8844971,58481,54,42.0
+New York,Albany,8544785,50743,33,38.5
+Wyoming,Cheyenne,1073565,77038,59,30.9
+Virginia,Richmond,4573917,47130,37,36.9
+Michigan,Detroit,6511084,51230,23,39.2
+Missouri,St. Louis,116842,80404,15,34.8
+Utah,Salt Lake City,185854,83042,42,39.1
+Oregon,Portland,277726,69334,60,41.7
+Louisiana,New Orleans,3504379,57120,56,33.2
+Idaho,Boise,3610884,49868,50,38.4
+Arizona,Phoenix,2272547,55568,52,38.4
+New Mexico,Albuquerque,585508,72414,18,32.4
+Georgia,Atlanta,6050973,48290,25,32.3
+South Carolina,Charleston,3605907,57068,39,35.0
+North Carolina,Charlotte,532065,81539,29,31.7
+Ohio,Columbus,166883,79473,30,43.8
+Kentucky,Louisville,4392642,82143,47,40.1
+Mississippi,Jackson,2941270,62714,10,44.1
+Arkansas,Little Rock,4818118,51290,32,35.4
+Oklahoma,Oklahoma City,5221621,74486,28,37.0
+Kansas,Wichita,3226784,80805,34,44.7
+South Dakota,Sioux Falls,2447951,86769,36,38.7
+North Dakota,Fargo,170064,73862,9,33.9
+Iowa,Des Moines,6641899,66505,28,44.0
+Wisconsin,Milwaukee,1563346,49283,30,30.7
+Indiana,Indianapolis,7498288,44031,27,35.8
+West Virginia,Charleston,3577371,60532,9,44.7
+Maryland,Baltimore,1852651,76620,59,35.9
+Delaware,Wilmington,6828860,62793,22,39.9
+New Jersey,Newark,6218617,43632,42,42.8
+Connecticut,Hartford,3453445,56534,30,41.1
+Rhode Island,Providence,8458022,75855,6,35.1
+Massachusetts,Boston,4436489,79178,25,43.0
+Vermont,Burlington,6721765,71573,27,32.5
+New Hampshire,Manchester,5702611,61403,8,34.5
